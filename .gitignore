@@ -1,3 +1,14 @@
+# Datasets
+ml-latest-small/
+data/
+raw_data/
+
+# Models
+model.pt
+
+# Repos
+IGMC/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
